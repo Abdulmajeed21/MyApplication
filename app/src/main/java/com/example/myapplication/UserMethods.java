@@ -44,6 +44,7 @@ public class UserMethods {
                 activity.finish();
                 return;
         }
+
         DatabaseReference typeRef = firebaseDatabase.getReference().child(userType);
         typeRef.orderByChild(USER_ID).equalTo(fAuth.getUid()).get()
                 .addOnFailureListener(task -> {
