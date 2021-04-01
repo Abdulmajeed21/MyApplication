@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout_recycle_panel.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\layout\\recycle_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout_recyclerview_branch_item_customer.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\layout\\recyclerview_branch_item_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list.png.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\drawable\\list.png"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location_icon.png.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\drawable\\location_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_loading_page.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\layout\\activity_main_loading_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout_acitvity_admin.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\layout\\acitvity_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_resetpass.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\layout\\activity_resetpass.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout_recyclerview_branch_item_company.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\layout\\recyclerview_branch_item_company.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_ticket.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\layout\\fragment_ticket.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_companycontrol.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\layout\\activity_companycontrol.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_company_control.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\layout\\activity_company_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sqlogo3.png.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\drawable\\sqlogo3.png"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_branch_details.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\layout\\fragment_branch_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register_customer.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\layout\\activity_register_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_branch.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\layout\\activity_edit_branch.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_maps.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\layout\\activity_edit_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ticket_page.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\layout\\activity_ticket_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_butten.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\drawable\\rounded_butten.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_customer_interface_list.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\layout\\activity_customer_interface_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_restaurant_page.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\layout\\activity_restaurant_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ticket.png.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\drawable\\ticket.png"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_branch.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\layout\\activity_add_branch.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\drawable\\ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_maps.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\layout\\fragment_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_list_page.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\layout\\activity_list_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_login_24.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\drawable\\ic_baseline_login_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sqlogo4.png.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\drawable\\sqlogo4.png"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_wysiwyg_24.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\drawable\\ic_baseline_wysiwyg_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reset_password.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\layout\\activity_reset_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_full_circle.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\drawable\\full_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register_company.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\layout\\activity_register_company.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_out.png.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\drawable\\out.png"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\menu_top_home_menu.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\menu\\top_home_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sqlogo.png.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\drawable\\sqlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\xml_root_preferences.xml.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\xml\\root_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sqlogo2.png.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\drawable\\sqlogo2.png"
+    },
+    {
+        "merged": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Abogb\\StudioProjects\\SmartQueueSystem\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

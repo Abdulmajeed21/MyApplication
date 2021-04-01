@@ -1,0 +1,90 @@
+com/example/myapplication/objects/Branch.java
+ com.example.myapplication.objects.Branch
+com/example/myapplication/activities/company/AddBranchActivity.java
+ com.example.myapplication.activities.company.AddBranchActivity
+com/example/myapplication/activities/NotificationHelper.java
+ com.example.myapplication.activities.NotificationHelper
+com/example/myapplication/activities/Dialog.java
+ com.example.myapplication.activities.Dialog
+ com.example.myapplication.activities.Dialog$1
+ com.example.myapplication.activities.Dialog$2
+com/example/myapplication/activities/company/RestaurantPage.java
+ com.example.myapplication.activities.company.RestaurantPage
+com/example/myapplication/activities/customer/CustomerInterfaceActivity.java
+ com.example.myapplication.activities.customer.CustomerInterfaceActivity
+ com.example.myapplication.activities.customer.CustomerInterfaceActivity$1
+com/example/myapplication/activities/customer/ui/settings/SettingsFragment.java
+ com.example.myapplication.activities.customer.ui.settings.SettingsFragment
+ com.example.myapplication.activities.customer.ui.settings.SettingsFragment$1
+com/example/myapplication/activities/customer/ui/ticket/TicketViewModel.java
+ com.example.myapplication.activities.customer.ui.ticket.TicketViewModel
+com/example/myapplication/activities/RegisterCustomerActivity.java
+ com.example.myapplication.activities.RegisterCustomerActivity
+ com.example.myapplication.activities.RegisterCustomerActivity$1
+com/example/myapplication/activities/company/EditBranchActivity.java
+ com.example.myapplication.activities.company.EditBranchActivity
+com/example/myapplication/activities/admin/CompanyControl.java
+ com.example.myapplication.activities.admin.CompanyControl
+ com.example.myapplication.activities.admin.CompanyControl$1
+ com.example.myapplication.activities.admin.CompanyControl$BranchHolder
+com/example/myapplication/activities/RegisterCompanyActivity.java
+ com.example.myapplication.activities.RegisterCompanyActivity
+com/example/myapplication/objects/Panel.java
+ com.example.myapplication.objects.Panel
+com/example/myapplication/objects/Ticket.java
+ com.example.myapplication.objects.Ticket
+com/example/myapplication/objects/Company.java
+ com.example.myapplication.objects.Company
+com/example/myapplication/activities/BranchDetails.java
+ com.example.myapplication.activities.BranchDetails
+com/example/myapplication/activities/ResetPassword.java
+ com.example.myapplication.activities.ResetPassword
+ com.example.myapplication.activities.ResetPassword$1
+com/example/myapplication/activities/customer/ui/home/MapsFragment.java
+ com.example.myapplication.activities.customer.ui.home.MapsFragment
+ com.example.myapplication.activities.customer.ui.home.MapsFragment$1
+ com.example.myapplication.activities.customer.ui.home.MapsFragment$2
+ com.example.myapplication.activities.customer.ui.home.MapsFragment$3
+com/example/myapplication/activities/company/CompanyBranchesActivity.java
+ com.example.myapplication.activities.company.CompanyBranchesActivity
+ com.example.myapplication.activities.company.CompanyBranchesActivity$1
+ com.example.myapplication.activities.company.CompanyBranchesActivity$BranchHolder
+com/example/myapplication/objects/Queue.java
+ com.example.myapplication.objects.Queue
+com/example/myapplication/activities/Location2.java
+ com.example.myapplication.activities.Location2
+com/example/myapplication/activities/company/TicketPageActivity.java
+ com.example.myapplication.activities.company.TicketPageActivity
+com/example/myapplication/activities/customer/ui/home/HomeViewModel.java
+ com.example.myapplication.activities.customer.ui.home.HomeViewModel
+com/example/myapplication/activities/customer/ui/ticket/TicketFragment.java
+ com.example.myapplication.activities.customer.ui.ticket.TicketFragment
+ com.example.myapplication.activities.customer.ui.ticket.TicketFragment$1
+com/example/myapplication/activities/GeofenceBroadcastReceiver.java
+ com.example.myapplication.activities.GeofenceBroadcastReceiver
+com/example/myapplication/activities/admin/Admin_Activity.java
+ com.example.myapplication.activities.admin.Admin_Activity
+ com.example.myapplication.activities.admin.Admin_Activity$1
+ com.example.myapplication.activities.admin.Admin_Activity$BranchHolder
+com/example/myapplication/activities/GeofenceHelper.java
+ com.example.myapplication.activities.GeofenceHelper
+com/example/myapplication/activities/company/EditMapsActivity.java
+ com.example.myapplication.activities.company.EditMapsActivity
+com/example/myapplication/objects/Customer.java
+ com.example.myapplication.objects.Customer
+com/example/myapplication/activities/customer/ui/home/HomeFragment.java
+ com.example.myapplication.activities.customer.ui.home.HomeFragment
+ com.example.myapplication.activities.customer.ui.home.HomeFragment$1
+ com.example.myapplication.activities.customer.ui.home.HomeFragment$CustomerBranchHolder
+com/example/myapplication/activities/customer/ui/home/BranchDetailsFragment.java
+ com.example.myapplication.activities.customer.ui.home.BranchDetailsFragment
+com/example/myapplication/activities/ListPageActivity.java
+ com.example.myapplication.activities.ListPageActivity
+com/example/myapplication/BuildConfig.java
+ com.example.myapplication.BuildConfig
+com/example/myapplication/UserMethods.java
+ com.example.myapplication.UserMethods
+com/example/myapplication/activities/LoginPageActivity.java
+ com.example.myapplication.activities.LoginPageActivity
+com/example/myapplication/activities/MainLoadingPage.java
+ com.example.myapplication.activities.MainLoadingPage

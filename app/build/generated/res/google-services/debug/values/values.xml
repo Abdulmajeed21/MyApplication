@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1098561464094-elv1i11l5ki9nrpquppgr6t0rbsudhug.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://smartqueuesystem-438-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1098561464094</string>
+    <string name="google_api_key" translatable="false">AIzaSyBblIRf0ittwy3dxoPvZcc3wlTMd3ivlEk</string>
+    <string name="google_app_id" translatable="false">1:1098561464094:android:f562022641359385508b0f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBblIRf0ittwy3dxoPvZcc3wlTMd3ivlEk</string>
+    <string name="google_storage_bucket" translatable="false">smartqueuesystem-438.appspot.com</string>
+    <string name="project_id" translatable="false">smartqueuesystem-438</string>
+</resources>
